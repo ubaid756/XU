@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UbaidXCGPT – Luxury Empire</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🌍 UbaidXCGPT – Billion Dillion Empire 🤖✨</h1>
+    <p class="tagline">Luxury • Wealth • Power</p>
+  </header>
+
+  <section class="hero">
+    <h2>Welcome to the Empire</h2>
+    <p>Exclusive AI Products | Digital Notes | Automation</p>
+    <a href="#products" class="btn">🚀 Buy Now</a>
+  </section>
+
+  <section id="products">
+    <h2>🔥 Featured Products</h2>
+    <div class="product">
+      <h3>AI Study Notes</h3>
+      <p>Premium notes for JKBOSE & Global Students.</p>
+      <span class="price">₹99</span>
+      <button class="btn">Buy Now</button>
+    </div>
+
+    <div class="product">
+      <h3>AI Automation Tools</h3>
+      <p>Boost your business & productivity.</p>
+      <span class="price">₹199</span>
+      <button class="btn">Buy Now</button>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 UbaidXCGPT Empire 🌍 All Rights Reserved.</p>
+    <p>📧 ubaidrashid756@gmail.com | 📞 9596131580</p>
+  </footer>
+</body>
+</html>
